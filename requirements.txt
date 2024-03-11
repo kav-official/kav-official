@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-crispy-forms
+python-slugify
+python-dotenv
+reverse
+decorators
+django-cors-headers
